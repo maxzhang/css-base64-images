@@ -26,7 +26,7 @@ Works with:
 * double quotes: url("../img/background-pattern.gif?base64");
 * absolute URL: url("/img/background-pattern.gif?base64"); but you must specify a `root` path
 
-*Note: * image path must be end of "?base64"
+*Note*:  image path must be end of "?base64"
 
 Do not work with (a warning is shown, but the process continue)
 
