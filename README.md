@@ -9,7 +9,7 @@ Base64 images in your css file.
 Transform this:
 
     .single-quote {
-      background: url('../img/background-pattern.gif');
+      background: url('../img/background-pattern.gif?base64');
     }
 
 into
@@ -22,9 +22,11 @@ Only works with CSS files.
 
 Works with:
 
-* single quotes: url('../img/background-pattern.gif');
-* double quotes: url("../img/background-pattern.gif");
-* absolute URL: url("/img/background-pattern.gif"); but you must specify a `root` path
+* single quotes: url('../img/background-pattern.gif?base64');
+* double quotes: url("../img/background-pattern.gif?base64");
+* absolute URL: url("/img/background-pattern.gif?base64"); but you must specify a `root` path
+
+*Note: * image path must be end of "?base64"
 
 Do not work with (a warning is shown, but the process continue)
 
