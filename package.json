@@ -11,7 +11,7 @@
     ],
     "name": "css-base64-images",
     "description": "Base64 images in your css",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "lib/css-b64-images.js",
     "bin": "bin/css-b64-images",
     "repository": {
