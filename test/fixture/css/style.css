@@ -24,29 +24,29 @@
 
 
 .single-quote {
-  background: url('../img/background-pattern.gif');
+  background: url('../img/background-pattern.gif?base64');
 }
 
 .double-quote {
-  background: url("../img/background-pattern.gif");
+  background: url("../img/background-pattern.gif?base64");
 }
 
 .absolute {
-  background: url('/img/background-pattern.gif');
+  background: url('/img/background-pattern.gif?base64');
 }
 
 .external {
-  background: url('http://pullrequest.org/img/background-pattern.gif');
+  background: url('http://pullrequest.org/img/background-pattern.gif?base64');
 }
 
 .tooBig {
-  background: url('../img/mixit-banner.png');
+  background: url('../img/mixit-banner.png?base64');
 }
 
 .not-found {
-  background: url('../img/nlabal.png');
+  background: url('../img/nlabal.png?base64');
 }
 
 .mediatype {
-  background: url('../img/dots.svg');
+  background: url('../img/dots.svg?base64');
 }

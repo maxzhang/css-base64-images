@@ -4,14 +4,15 @@
             "name": "Max Zhang",
             "email": "zhangdaiping@gmail.com",
             "url": "https://github.com/maxzhang"
-        }, {
+        },
+        {
             "name": "Filirom1",
             "email": "filirom1@gmail.com"
         }
     ],
     "name": "css-base64-images",
     "description": "Base64 images in your css",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "main": "lib/css-b64-images.js",
     "bin": "bin/css-b64-images",
     "repository": {
