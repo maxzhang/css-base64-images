@@ -19,9 +19,9 @@ into
     }
 
 
-**Note**: Image path must be end of "?base64"
-
 Only works with CSS or HTML files.
+
+**Note**: Image path must be end of "?base64"
 
 Works with css:
 
@@ -31,7 +31,7 @@ Works with css:
 
 Works with html:
 
-* img tag: <img src="..img/background-pattern.gif?base64" />
+* img tag: ```<img src="..img/background-pattern.gif?base64" />```
 
 Do not work with (a warning is shown, but the process continue)
 
